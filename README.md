@@ -8,7 +8,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Google Suite](https://img.shields.io/badge/Google_Suite-4285F4?style=flat&logo=google&logoColor=white)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
-Jupyter	![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 
 Strategy & Ops operator with an engineering background. 4 years at Monitor Deloitte, internship at Rubrik. Using AI to make my life easier and work more impactful.
 
